@@ -2,7 +2,7 @@
 
 **A theory of failure for markets, states, and machines**
 
-A book of about 115,000 words by Simon Kreis & Claude, version 1.1, October 2026. Facts are stated as of mid-September 2026.
+A book of about 115,000 words by Simon Kreis & Claude, updated October 2026. Facts are stated as of mid-September 2026.
 
 **Thesis.** Every high-performing economic, political, or organizational system runs on the same machine: a generator produces, an external verifier evaluates the output cheaply and continuously, and a binding consequence follows from the verdict. What predicts performance is not public versus private, left versus right, or big state versus small state, but the cost, independence, and bindingness of verification, which varies by sector rather than by country.
 
@@ -69,9 +69,9 @@ The six stress tests, each with its pass mark fixed in Chapter 8 before any case
 
 ## The source ledger
 
-The ledger is Appendix A of the book, not a separate file. It lists every sourced figure, date, and event the text relies on, chapter by chapter, with the URL where one was found; at v1.1 it holds 336 numbered entries, 315 of them with a URL. Entries marked as corrected, or as unconfirmed when first drafted, show where verification changed the text: a claim that could not be confirmed was corrected, reworded to drop the unconfirmed detail, or cut.
+The ledger is Appendix A of the book, not a separate file. It lists every sourced figure, date, and event the text relies on, chapter by chapter, with the URL where one was found; it holds 336 numbered entries, 315 of them with a URL. Entries marked as corrected, or as unconfirmed when first drafted, show where verification changed the text: a claim that could not be confirmed was corrected, reworded to drop the unconfirmed detail, or cut.
 
-The book invites the reader to run its third question on the book itself: what happens to it when a claim in it is found to be wrong. If you find one, please [open an issue](https://github.com/SimonKreis/verification-loop/issues) with the chapter, the claim, and your source. A confirmed error is corrected in the text, listed in the errata at the end of Appendix A, and the version number moves.
+The book invites the reader to run its third question on the book itself: what happens to it when a claim in it is found to be wrong. If you find one, please [open an issue](https://github.com/SimonKreis/verification-loop/issues) with the chapter, the claim, and your source. A confirmed error is corrected in the text, listed, with its date, in the errata at the end of Appendix A.
 
 ## License
 
@@ -81,7 +81,7 @@ The text of the book and of the companion essay is licensed under [Creative Comm
 
 Plain text:
 
-> Kreis, Simon, and Claude (Anthropic). 2026. *The Verification Loop: A Theory of Failure for Markets, States, and Machines*. Version 1.1. https://github.com/SimonKreis/verification-loop
+> Kreis, Simon, and Claude (Anthropic). 2026. *The Verification Loop: A Theory of Failure for Markets, States, and Machines*. https://github.com/SimonKreis/verification-loop
 
 BibTeX:
 
@@ -91,7 +91,6 @@ BibTeX:
   title     = {The Verification Loop: A Theory of Failure for Markets, States, and Machines},
   year      = {2026},
   month     = oct,
-  edition   = {Version 1.1},
   note      = {Made with AI, mainly Claude (Anthropic)},
   url       = {https://github.com/SimonKreis/verification-loop}
 }

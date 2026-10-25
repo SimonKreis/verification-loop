@@ -6,7 +6,7 @@ Simon Kreis & Claude
 
 Made with AI, mainly Claude (Anthropic), which contributed in part or in whole to the work. Simon Kreis is responsible for the result. From a question by Simon Kreis.
 
-Version 1.0, October 2026. Facts are stated as of mid-September 2026.
+Updated October 2026. Facts are stated as of mid-September 2026.
 
 *A companion essay to [The Verification Loop](the-verification-loop.md), which carries the full argument, the thirty cases, and the source ledger. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
 

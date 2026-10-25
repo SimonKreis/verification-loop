@@ -6,7 +6,7 @@ Simon Kreis & Claude
 
 Made with AI, mainly Claude (Anthropic), which contributed in part or in whole to the work. Simon Kreis is responsible for the result. From a question by Simon Kreis.
 
-Version 1.1, October 2026.
+Updated October 2026.
 
 ## Summary
 
@@ -36,7 +36,7 @@ Every high-performing economic, political, or organizational system runs on the 
 
 The book was drafted by one orchestrating instance of Claude and some thirty agents, and agents ran the first checks too. By the book's own argument that is not enough, since an audit built by the generator's own organization is a verifier the generator can capture (Chapter 15).
 
-The ledger at the end is what makes independent verification cheap. Every number, date, and event was checked against a dated source, and Appendix A records what was found, chapter by chapter, with URLs. Where a claim could not be confirmed, the text was corrected, reworded to drop the unconfirmed detail, or cut, and the ledger says which. The verifier is the reader who follows the URLs, and the reader is invited to run the third question on the book itself: what happens to it when a claim in it is found to be wrong. The answer is meant to bind. An error reported on the book's public repository (github.com/SimonKreis/verification-loop, under Issues) is checked against its source, corrected or cut in the text, and recorded in the errata at the end of Appendix A, and the version number moves.
+The ledger at the end is what makes independent verification cheap. Every number, date, and event was checked against a dated source, and Appendix A records what was found, chapter by chapter, with URLs. Where a claim could not be confirmed, the text was corrected, reworded to drop the unconfirmed detail, or cut, and the ledger says which. The verifier is the reader who follows the URLs, and the reader is invited to run the third question on the book itself: what happens to it when a claim in it is found to be wrong. The answer is meant to bind. An error reported on the book's public repository (github.com/SimonKreis/verification-loop, under Issues) is checked against its source, corrected or cut in the text, and recorded, with its date, in the errata at the end of Appendix A.
 
 The facts are stated as of mid-September 2026. Several cases turn on events still in motion (Venezuela after January 2026, Argentina under its current government, China's suspended statistics, the Georgiou case in Greece), and the ledger dates each source so that the reader can see how old each fact is.
 
@@ -1615,9 +1615,9 @@ Every sourced figure, date, and event the text relies on, listed by chapter with
 
 ### Errata
 
-Errors found after publication are listed here, newest first, with the version that corrected them, the claim as first published, and the source that corrected it.
+Errors found after publication are listed here, newest first, with the date of the correction, the claim as first published, and the source that corrected it.
 
-1. Version 1.1, October 2026, Chapter 1. As first published: "No state has run a grocery store well." The claim was absolute, and one counterexample would have refuted it; it now reads "No state that wrote its own shelf prices has run a grocery store well," which is the case the chapter argues. Found in the authors' own review; no reader has reported an error as of version 1.1.
+1. October 2026, Chapter 1. As first published: "No state has run a grocery store well." The claim was absolute, and one counterexample would have refuted it; it now reads "No state that wrote its own shelf prices has run a grocery store well," which is the case the chapter argues. Found in the authors' own review; no reader has reported an error as of October 2026.
 
 ## Appendix B. Reading List
 
