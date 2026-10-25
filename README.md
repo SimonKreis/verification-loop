@@ -2,15 +2,16 @@
 
 **A theory of failure for markets, states, and machines**
 
-A book of about 115,000 words by Simon Kreis & Claude, version 1.0, September 2026. Facts are stated as of mid-September 2026.
+A book of about 115,000 words by Simon Kreis & Claude, version 1.1, October 2026. Facts are stated as of mid-September 2026.
 
 **Thesis.** Every high-performing economic, political, or organizational system runs on the same machine: a generator produces, an external verifier evaluates the output cheaply and continuously, and a binding consequence follows from the verdict. What predicts performance is not public versus private, left versus right, or big state versus small state, but the cost, independence, and bindingness of verification, which varies by sector rather than by country.
 
-**How it was made.** Simon Kreis set the thesis, the seven propositions, the case roster, the six stress tests, and the rules of voice and evidence, in a specification dated 20 August 2026. Claude, Anthropic's model, drafted the text against that specification: one orchestrating instance and about thirty drafting agents working to a fixed coherence contract and a fixed case template, followed by audit agents on disjoint scopes, a source-verification pass, and a cold read of the whole. Those checks were run by the same kind of system that wrote the text, so the book does not count them as its verifier: the verifier is the reader, and the ledger exists to make the reader's check cheap. Every number, date, and event was checked against a dated source, and the book's own ledger (Appendix A) records what was found, chapter by chapter, with URLs. Simon did not write the prose; the book states the division of labour on its first page, and so does this repository.
+**How it was made.** Simon Kreis & Claude. Made with AI, mainly Claude (Anthropic), which contributed in part or in whole to the work. Simon Kreis is responsible for the result. From a question by Simon Kreis. Every number, date, and event was checked against a dated source, and the book's own ledger (Appendix A) records what was found, chapter by chapter, with URLs, so that the reader, not the machine, is the verifier.
 
 ## Read it
 
-- **Single file:** [`the-verification-loop.md`](the-verification-loop.md), the canonical source of the whole book
+- **Single file:** [`the-verification-loop.md`](the-verification-loop.md), the canonical source of the whole book; it opens with a plain-language summary
+- **Short version:** [`cheap-truth.md`](cheap-truth.md), *Cheap Truth*, a companion essay of about 5,000 words: the machine, five cases, and two stress tests
 - **Report an error:** [open an issue](https://github.com/SimonKreis/verification-loop/issues) with the chapter, the claim, and your source
 
 ## What the book argues
@@ -33,7 +34,7 @@ The six stress tests, each with its pass mark fixed in Chapter 8 before any case
 
 ## Contents
 
-**Front matter.** Note on method. The seven propositions.
+**Front matter.** Summary. Note on method. The seven propositions.
 
 **Part I: The Machine**
 1. The Loop
@@ -68,19 +69,19 @@ The six stress tests, each with its pass mark fixed in Chapter 8 before any case
 
 ## The source ledger
 
-The ledger is Appendix A of the book, not a separate file. It lists every sourced figure, date, and event the text relies on, chapter by chapter, with the URL where one was found; at v1.0 it holds 336 numbered entries, 315 of them with a URL. Entries marked as corrected, or as unconfirmed when first drafted, show where verification changed the text: a claim that could not be confirmed was corrected, reworded to drop the unconfirmed detail, or cut.
+The ledger is Appendix A of the book, not a separate file. It lists every sourced figure, date, and event the text relies on, chapter by chapter, with the URL where one was found; at v1.1 it holds 336 numbered entries, 315 of them with a URL. Entries marked as corrected, or as unconfirmed when first drafted, show where verification changed the text: a claim that could not be confirmed was corrected, reworded to drop the unconfirmed detail, or cut.
 
 The book invites the reader to run its third question on the book itself: what happens to it when a claim in it is found to be wrong. If you find one, please [open an issue](https://github.com/SimonKreis/verification-loop/issues) with the chapter, the claim, and your source. A confirmed error is corrected in the text, listed in the errata at the end of Appendix A, and the version number moves.
 
 ## License
 
-The text of the book is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/): you may share and adapt it for any purpose, including commercially, with credit to the authors, a link to the license, and an indication of any changes. See [`LICENSE`](LICENSE). Quotations from other works and the sources listed in the ledger remain under their own terms.
+The text of the book and of the companion essay is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/): you may share and adapt it for any purpose, including commercially, with credit to the authors, a link to the license, and an indication of any changes. See [`LICENSE`](LICENSE). Quotations from other works and the sources listed in the ledger remain under their own terms.
 
 ## How to cite
 
 Plain text:
 
-> Kreis, Simon, and Claude (Anthropic). 2026. *The Verification Loop: A Theory of Failure for Markets, States, and Machines*. Version 1.0. https://github.com/SimonKreis/verification-loop
+> Kreis, Simon, and Claude (Anthropic). 2026. *The Verification Loop: A Theory of Failure for Markets, States, and Machines*. Version 1.1. https://github.com/SimonKreis/verification-loop
 
 BibTeX:
 
@@ -89,11 +90,11 @@ BibTeX:
   author    = {Kreis, Simon and Claude},
   title     = {The Verification Loop: A Theory of Failure for Markets, States, and Machines},
   year      = {2026},
-  month     = sep,
-  edition   = {Version 1.0},
-  note      = {Specified by Simon Kreis; text drafted by Claude (Anthropic) under his specification},
+  month     = oct,
+  edition   = {Version 1.1},
+  note      = {Made with AI, mainly Claude (Anthropic)},
   url       = {https://github.com/SimonKreis/verification-loop}
 }
 ```
 
-Contact: Simon Kreis, M. Sc., [simon@kreisconsulting.ca](mailto:simon@kreisconsulting.ca).
+Contact: Simon Kreis, M.Sc., [simon@kreisconsulting.ca](mailto:simon@kreisconsulting.ca).
