@@ -1,5 +1,7 @@
 # The Verification Loop
 
+**English** · [Français](README.fr.md)
+
 **A theory of failure for markets, states, and machines**
 
 A book of about 115,000 words by Simon Kreis & Claude, updated October 2026. Facts are stated as of mid-September 2026.
